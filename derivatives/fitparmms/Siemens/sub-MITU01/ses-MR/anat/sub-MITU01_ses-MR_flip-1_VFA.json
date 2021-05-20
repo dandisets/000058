@@ -1,0 +1,18 @@
+
+{
+
+	"IntendedFor": [
+		"anat/sub-MITU01_ses-MR_PDmap.nii.gz", 
+		"anat/sub-MITU01_ses-MR_Sse.nii.gz", 
+		"anat/sub-MITU01_ses-MR_T1map.nii.gz", 
+		"anat/sub-MITU01_ses-MR_T2starmap.nii.gz",
+	]
+	"Manufacturer": "Siemens",
+	"ManufacturerModelName": "MAGNETOM Terra",
+	"MagneticFieldStrength": "7",
+	"InstitutionName": "MGH MIT",
+	"PulseSequenceType": "GRE",
+	"RepetitionTimeExcitation": "45",
+	"FlipAngle": "10"
+
+} 
