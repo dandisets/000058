@@ -1,0 +1,17 @@
+
+{
+
+<<Parameters that are constant across files in the (parent) file collection>>
+
+        "Manufacturer": "Siemens",
+	"ManufacturerModelName": "MAGNETOM Terra",
+        "MagneticFieldStrength": "7",
+        "InstitutionName": "MGH MIT",
+        "PulseSequenceType": "GRE",
+        "RepetitionTimeExcitation": "45"
+
+<<Relevant parameters that vary across the linking entity of the (parent) file collection>>
+
+	"FlipAngle": ["10", "20", "40", "50"]
+
+}
