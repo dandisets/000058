@@ -1,0 +1,19 @@
+
+{
+
+	"Name": "MITU01 MR dataset",
+	"BIDSVersion": "1.5.0",
+	"DatasetType": "derivative",
+	"GeneratedBy": [
+	  {
+		"Name": "mri_ms_fitparms"
+	  },
+	  {
+		"Name": "Manual"
+		"Description": "B0 and B1+ correction scripts"
+	  }
+	],
+	"Description": "This is a dataset from a Variable Flip Angle (VFA) scan which has been processed through the described pipeline to compute compressed, synthetic parameter mapped volumes."
+
+}
+
