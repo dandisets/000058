@@ -21,14 +21,19 @@ ethicsApproval: []
 id: 000058/draft
 identifier: DANDI:000058
 keywords: []
-license: []
+license:
+- spdx:CC-BY-4.0
 manifestLocation: []
 name: MITU01 Dataset
 protocol: []
 relatedResource: []
 repository: https://dandiarchive.org/
+schemaKey: Dandiset
 schemaVersion: 0.3.0
 studyTarget: []
 url: https://dandiarchive.org/000058/draft
 version: draft
-wasGeneratedBy: []
+wasGeneratedBy:
+- name: Brain Initiative Cell Census Network (BICCN)
+  schemaKey: Project
+  wasAssociatedWith: []
