@@ -8,8 +8,17 @@ access:
     schemaKey: ContactPoint
   status: dandi:OpenAccess
 assetsSummary:
-  numberOfBytes: 0
-  numberOfFiles: 0
+  approach: []
+  dataStandard:
+  - identifier: RRID:SCR_016124
+    name: Brain Imaging Data Structure (BIDS)
+    schemaKey: StandardsType
+  measurementTechnique: []
+  numberOfBytes: 35328357304
+  numberOfFiles: 17
+  schemaKey: AssetsSummary
+  species: []
+  variableMeasured: []
 citation: MITU01 Dataset (2021). (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000058/draft
 contributor:
 - affiliation: []
