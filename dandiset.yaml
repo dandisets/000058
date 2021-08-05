@@ -35,7 +35,8 @@ identifier: DANDI:000058
 keywords: []
 license:
 - spdx:CC-BY-4.0
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000058/versions/draft/assets/
 name: MITU01 Dataset
 protocol: []
 relatedResource: []

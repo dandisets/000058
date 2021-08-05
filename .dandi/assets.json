@@ -77,7 +77,7 @@
 ]
 },
 "modified":
-"2021-07-03T04:21:58.101681+00:00",
+"2021-08-05T18:52:41.351473+00:00",
 "path":
 "derivatives/fitparmms/Siemens/sub-MITU01/ses-MR/anat/sub-MITU01_ses-MR_Sse.json",
 "size":
@@ -161,7 +161,7 @@
 ]
 },
 "modified":
-"2021-07-03T04:21:58.236222+00:00",
+"2021-08-05T18:52:41.387063+00:00",
 "path":
 "derivatives/fitparmms/Siemens/sub-MITU01/ses-MR/anat/sub-MITU01_ses-MR_T2starmap.json",
 "size":
@@ -245,7 +245,7 @@
 ]
 },
 "modified":
-"2021-07-03T04:21:58.366021+00:00",
+"2021-08-05T18:52:41.420409+00:00",
 "path":
 "derivatives/fitparmms/Siemens/sub-MITU01/ses-MR/anat/sub-MITU01_ses-MR_flip-4_VFA.json",
 "size":
@@ -329,7 +329,7 @@
 ]
 },
 "modified":
-"2021-07-03T04:21:58.490033+00:00",
+"2021-08-05T18:52:41.511770+00:00",
 "path":
 "derivatives/fitparmms/Siemens/sub-MITU01/ses-MR/anat/sub-MITU01_ses-MR_flip-3_VFA.json",
 "size":
@@ -413,7 +413,7 @@
 ]
 },
 "modified":
-"2021-07-03T04:21:58.614943+00:00",
+"2021-08-05T18:52:41.542704+00:00",
 "path":
 "dataset_description.json",
 "size":
@@ -497,7 +497,7 @@
 ]
 },
 "modified":
-"2021-07-03T04:21:58.819008+00:00",
+"2021-08-05T18:52:41.574444+00:00",
 "path":
 "derivatives/fitparmms/Siemens/sub-MITU01/ses-MR/anat/sub-MITU01_ses-MR_flip-2_VFA.json",
 "size":
@@ -581,7 +581,7 @@
 ]
 },
 "modified":
-"2021-07-03T04:21:58.947407+00:00",
+"2021-08-05T18:52:41.607610+00:00",
 "path":
 "derivatives/fitparmms/Siemens/sub-MITU01/ses-MR/anat/sub-MITU01_ses-MR_T1map.json",
 "size":
@@ -665,7 +665,7 @@
 ]
 },
 "modified":
-"2021-07-03T04:21:59.075413+00:00",
+"2021-08-05T18:52:41.639919+00:00",
 "path":
 "derivatives/fitparmms/Siemens/sub-MITU01/ses-MR/anat/sub-MITU01_ses-MR_flip-1_VFA.json",
 "size":
@@ -749,7 +749,7 @@
 ]
 },
 "modified":
-"2021-07-03T04:21:59.196890+00:00",
+"2021-08-05T18:52:41.671275+00:00",
 "path":
 "derivatives/fitparmms/Siemens/sub-MITU01/ses-MR/anat/sub-MITU01_ses-MR_PDmap.json",
 "size":
@@ -833,7 +833,7 @@
 ]
 },
 "modified":
-"2021-07-03T04:21:59.320146+00:00",
+"2021-08-05T18:52:41.705532+00:00",
 "path":
 "derivatives/fitparmms/Siemens/sub-MITU01/ses-MR/anat/sub-MITU01_ses-MR_T1map.nii.gz",
 "size":
@@ -917,7 +917,7 @@
 ]
 },
 "modified":
-"2021-07-03T04:21:59.444053+00:00",
+"2021-08-05T18:52:41.738670+00:00",
 "path":
 "derivatives/fitparmms/Siemens/sub-MITU01/ses-MR/anat/sub-MITU01_ses-MR_T2starmap.nii.gz",
 "size":
@@ -1001,7 +1001,7 @@
 ]
 },
 "modified":
-"2021-07-03T04:21:59.571914+00:00",
+"2021-08-05T18:52:41.770450+00:00",
 "path":
 "derivatives/fitparmms/Siemens/sub-MITU01/ses-MR/anat/sub-MITU01_ses-MR_flip-2_VFA.nii.gz",
 "size":
@@ -1085,7 +1085,7 @@
 ]
 },
 "modified":
-"2021-07-03T04:21:59.692267+00:00",
+"2021-08-05T18:52:41.814960+00:00",
 "path":
 "derivatives/fitparmms/Siemens/sub-MITU01/ses-MR/anat/sub-MITU01_ses-MR_Sse.nii.gz",
 "size":
@@ -1169,7 +1169,7 @@
 ]
 },
 "modified":
-"2021-07-03T04:21:59.911659+00:00",
+"2021-08-05T18:52:41.855261+00:00",
 "path":
 "derivatives/fitparmms/Siemens/sub-MITU01/ses-MR/anat/sub-MITU01_ses-MR_flip-3_VFA.nii.gz",
 "size":
@@ -1253,7 +1253,7 @@
 ]
 },
 "modified":
-"2021-07-03T04:22:00.062109+00:00",
+"2021-08-05T18:52:41.906590+00:00",
 "path":
 "derivatives/fitparmms/Siemens/sub-MITU01/ses-MR/anat/sub-MITU01_ses-MR_flip-1_VFA.nii.gz",
 "size":
@@ -1337,7 +1337,7 @@
 ]
 },
 "modified":
-"2021-07-03T04:22:00.189380+00:00",
+"2021-08-05T18:52:41.946068+00:00",
 "path":
 "derivatives/fitparmms/Siemens/sub-MITU01/ses-MR/anat/sub-MITU01_ses-MR_flip-4_VFA.nii.gz",
 "size":
@@ -1421,7 +1421,7 @@
 ]
 },
 "modified":
-"2021-07-03T04:22:00.310374+00:00",
+"2021-08-05T18:52:41.983332+00:00",
 "path":
 "derivatives/fitparmms/Siemens/sub-MITU01/ses-MR/anat/sub-MITU01_ses-MR_PDmap.nii.gz",
 "size":
