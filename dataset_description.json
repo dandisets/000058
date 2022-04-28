@@ -9,7 +9,7 @@
 		"Name": "mri_ms_fitparms"
 	  },
 	  {
-		"Name": "Manual"
+		"Name": "Manual",
 		"Description": "B0 and B1+ correction scripts"
 	  }
 	],
